@@ -1,0 +1,16 @@
+# Data files
+*.xlsx
+*.xls
+*.csv
+
+# Word documents
+*.docx
+*.doc
+
+# PDF files in subdirectories
+Module 1 Files/
+Deliverables/
+
+# OS files
+.DS_Store
+Thumbs.db
